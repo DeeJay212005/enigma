@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-21470.592 -22091.592 131.182 131.182">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #b3996b;
+        stroke-miterlimit: 10;
+        stroke-width: 1.182px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #b3996b;
+      }
+    </style>
+  </defs>
+  <g id="Ethos_Logo" data-name="Ethos Logo" transform="translate(-21919 -22139)">
+    <rect id="Rectangle_2225" data-name="Rectangle 2225" width="130" height="130" transform="translate(449 48)"/>
+    <rect id="Rectangle_2226" data-name="Rectangle 2226" class="cls-1" width="130" height="130" transform="translate(449 48)"/>
+    <path id="Path_761" data-name="Path 761" class="cls-2" d="M10.6,37.519H25.52V31.968H17.193V27.457h7.98V21.906h-7.98v-3.47H25.52V13H10.6Z" transform="translate(449.966 49.342)"/>
+    <path id="Path_762" data-name="Path 762" class="cls-2" d="M26.2,18.436h5.2V37.519H38V18.436h5.089V13H26.2Z" transform="translate(452.409 49.342)"/>
+    <path id="Path_763" data-name="Path 763" class="cls-2" d="M57.826,22.021H50.193V13H43.6V37.519h6.593V27.226h7.633V37.519h6.592V13H57.826Z" transform="translate(455.133 49.342)"/>
+    <path id="Path_764" data-name="Path 764" class="cls-2" d="M98.534,21.868c-2.082-.81-3.238-1.272-3.238-2.313S96.568,17.7,97.609,17.7a3.89,3.89,0,0,1,3.238,1.619l.578.81,3.354-4.4-.463-.463A11.641,11.641,0,0,0,96.8,12.5c-4.626,0-8.327,3.354-8.327,7.633,0,4.164,3.007,5.783,6.246,6.939l.463.116c2.082.694,3.47,1.272,3.47,2.891a2.422,2.422,0,0,1-2.544,2.544,4.408,4.408,0,0,1-3.932-2.891l-.347-1.041L87.2,32.74l.347.578a10.125,10.125,0,0,0,8.559,4.858c5.552,0,9.253-3.47,9.253-8.559.116-5.089-3.932-6.593-6.824-7.749" transform="translate(461.96 49.264)"/>
+    <path id="Path_765" data-name="Path 765" class="cls-2" d="M77.022,32.115a6.593,6.593,0,1,1,6.592-6.593,6.517,6.517,0,0,1-6.592,6.593m0-19.315A12.722,12.722,0,1,0,89.745,25.522,12.613,12.613,0,0,0,77.022,12.8" transform="translate(458.375 49.311)"/>
+    <path id="Path_766" data-name="Path 766" class="cls-3" d="M75.66,21.5a2.66,2.66,0,1,0,2.66,2.66,2.55,2.55,0,0,0-2.66-2.66" transform="translate(459.737 50.673)"/>
+  </g>
+</svg>

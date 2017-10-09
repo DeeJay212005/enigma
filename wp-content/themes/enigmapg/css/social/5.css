@@ -1,0 +1,33 @@
+.box-page-info {
+   margin-bottom: -10px;
+   text-align: center
+}
+
+.box-page-gallery {
+   text-align: center
+}
+
+.box-page-gallery,
+.box-page-related {
+   margin-bottom: 15px
+}
+
+.box-page-gallery .col-12 {
+   text-align: center
+}
+
+.box-page-gallery .box-photo {
+   display: inline-block;
+   background-color: #e6eaea;
+   overflow: hidden
+}
+
+.box-page-gallery .box-photo img {
+   float: left;
+   -webkit-transition: all .3s ease-in-out;
+   transition: all .3s ease-in-out
+}
+
+.box-page-votation {
+   margin-bottom: 50px
+}

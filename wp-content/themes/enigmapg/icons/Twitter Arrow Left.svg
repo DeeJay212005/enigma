@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-21471.004 -19618 36 52.561">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #212020;
+        stroke: #b3996b;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #b3996b;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_31" data-name="Group 31" transform="translate(-22778.998 -20098)">
+    <g id="Group_30" data-name="Group 30" transform="translate(1307.994 480)">
+      <g id="Ellipse_4" data-name="Ellipse 4" class="cls-1" transform="translate(0 16.56)">
+        <circle class="cls-4" cx="18" cy="18" r="18"/>
+        <circle class="cls-5" cx="18" cy="18" r="17.5"/>
+      </g>
+      <path id="Path_25" data-name="Path 25" class="cls-2" d="M48,0" transform="translate(-30.002)"/>
+    </g>
+    <path id="R_Arrow" data-name="R Arrow" class="cls-3" d="M0,16.874H2.349l9.105-8.2L2.349,0H0L8.884,8.67Z" transform="translate(1330.231 522.858) rotate(180)"/>
+  </g>
+</svg>
